@@ -13,6 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgabrielqr&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
+  ## 🛠 Conhecimentos 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
