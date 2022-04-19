@@ -1,8 +1,7 @@
 ### Hi, I'm Felipe Gabriel 👨
 
-- 🎓- Graduando em Análise e Desenvolvimento de Sistema(ADS), 7° período - IFRN;
+- 🎓- Graduado em Análise e Desenvolvimento de Sistema(ADS) - IFRN;
 - 🧑‍💻- Desenvolvedor Front-End;
-- 🏢- Trabalhando na empresa Agritech Agricultura Semiárido LTDA;
 - 🔥- Programador aprendiz, procurando sempre estar atualizado com as novas tecnologias do mercado atual.
 
   ##
