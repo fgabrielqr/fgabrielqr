@@ -3,7 +3,7 @@
 - 🎓- Graduado em Análise e Desenvolvimento de Sistema(ADS) - IFRN;
 - 🧑‍💻- Desenvolvedor Front-End;
 - 🔥- Programador aprendiz, procurando sempre estar atualizado com as novas tecnologias do mercado atual.
-- Portfolio: <a href="https://lnkd.in/dKnkNfRU">
+- Portfolio: <a href="https://lnkd.in/dKnkNfRU"> link </a>
   ##
 
 <div>
