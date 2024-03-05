@@ -4,7 +4,7 @@
 - 🎓- Mestrando em Ciência da Computação - UFERSA;
 - 🧑‍💻- Desenvolvedor Front-End;
 - 🔥- Programador aprendiz, procurando sempre estar atualizado com as novas tecnologias do mercado atual.
-- Portfolio: <a href="https://lnkd.in/dKnkNfRU">https://lnkd.in/dKnkNfRU</a>
+- Portfolio: <a href="[https://lnkd.in/dKnkNfRU](https://fgabrielqr.github.io/felipeportfolio.github.io/)">https://lnkd.in/dKnkNfRU</a>
   ##
 
 <div>
