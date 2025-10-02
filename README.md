@@ -1,7 +1,7 @@
 ### Hi, I'm Felipe Gabriel 👨
 
 - 🎓- Graduado em Análise e Desenvolvimento de Sistema(ADS) - IFRN;
-- 🎓- Mestrando em Ciência da Computação - UFERSA;
+- 🎓- Mestre em Ciência da Computação - UFERSA;
 - 🧑‍💻- Desenvolvedor Front-End;
 - 🔥- Programador aprendiz, procurando sempre estar atualizado com as novas tecnologias do mercado atual.
 - Portfolio: <a href="[https://lnkd.in/dKnkNfRU](https://fgabrielqr.github.io/felipeportfolio.github.io/)">https://lnkd.in/dKnkNfRU</a>
